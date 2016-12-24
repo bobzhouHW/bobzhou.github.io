@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+小小程序员一枚，热爱Linux，崇尚开源，干过开发，搞过测试；
+写过python脚本，调过java程序；
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[zhoub1986@aliyun.com](mailto:zhoub1986@aliyun.com)
