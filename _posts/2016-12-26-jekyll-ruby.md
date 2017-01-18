@@ -33,9 +33,16 @@ rm -f /usr/bin/irb
 rm -f /usr/local/bin/gem
 rm -f /usr/bin/gem
 
+本地调试
+--
+1. 在目录文件夹运行 jekyll serve
+2. 浏览器访问 http://127.0.0.1:4000/
+
 Q&A
 --
 如果出现下面错误
 /usr/lib/ruby/1.9.1/rubygems/custom_require.rb:36:in `require': cannot load such file -- mkmf (LoadError)
 
 解决方法：sudo apt-get install ruby-dev
+
+
