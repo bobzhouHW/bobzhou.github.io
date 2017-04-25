@@ -58,6 +58,7 @@ title: MarkDown(md)文件的编辑
 
 参考文献
 ---
-www.jianshu.com/p/1e402922ee32/
+www.jianshu.com/p/1e402922ee32/  
+http://www.appinn.com/markdown/#backslash
 
 
