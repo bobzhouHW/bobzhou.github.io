@@ -6,7 +6,7 @@ title: Set up a jekyll local environment
 安装ruby
 ----
 1.  gpg --keyserver hkp://keys.gnupg.net --recv-keys 409B6B1796C275462A1703113804BB82D39DC0E3
-2.  \curl -sSL https://get.rvm.io | bash -s stable
+2.  curl -sSL https://get.rvm.io | bash -s stable
 3. source ~/.bashrc
 source ~/.bash_profile
 4. echo "ruby_url=https://cache.ruby-china.org/pub/ruby" > ~/.rvm/user/db
@@ -20,7 +20,10 @@ rvm list known
 sudo apt-get install ruby-dev
 gem install minima -v "2.0.0"
 gem install rdiscount
-gem install Jekyll 
+gem install jekyll
+gem install jekyll-sitemap
+gem install jekyll-feed
+
 
 清除非rvm安装的ruby
 ---
